@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Ibrahim</h1>
+<h1 align="center">👋 Hi, I'm Ibrahim</h1>
 
 ### 🧠 About Me
 
