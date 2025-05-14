@@ -18,33 +18,79 @@ I thrive in agile environments, lead with empathy, and communicate with clarity.
 
 ### 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+<!-- Languages -->
+**Languages**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30" alt="Solidity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash"/>
 </p>
 
-```bash
-Languages:     JavaScript · TypeScript · Python · Solidity · SQL · Bash · HTML5/CSS3
-Backend:       Node.js · NestJS · Express · Flask · FastAPI
-Frontend:      React · Next.js · React Native · TailwindCSS · Material UI · Shadcn · Redux · Zustand
-Data Stores:   PostgreSQL · MongoDB · DynamoDB · Redis · Elasticsearch · S3 · Aurora
-Cloud & DevOps: AWS (EKS, ECS, Lambda, EC2, RDS, CloudFormation, S3, CloudWatch)
-                Kubernetes · Docker · Terraform · CDK · Jenkins · GitHub Actions · Argo CD
-Streaming:     Kafka · Redpanda · WebSockets · RabbitMQ · SQS/SNS
-Media:         FFmpeg · MoviePy · WebGL · GPU offloading · Transcoder · rembg
-Testing:       Jest · Cypress · Playwright · Postman · Load Testing (k6, Artillery)
-Monitoring:    Prometheus · Grafana · Kibana · ELK Stack
-CMS & Auth:    Strapi · Auth0 · Firebase · OAuth · JWT
-Blockchain:    Solidity · Hardhat · Ethers.js · Web3.js · Foundry · DeFi · Chainlink · Solana · Anchor
-Other:         Stripe · Headless CMS · CI/CD pipelines · Trunk-based development
-````
+---
+
+**Backend & APIs**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
+<img src="https://nestjs.com/img/logo-small.svg" width="30" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" alt="FastAPI"/>
+</p>
+
+---
+
+**Frontend**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" alt="Material UI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
+</p>
+
+---
+
+**Cloud & DevOps**  
+<p>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30" alt="AWS (alt)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub Actions"/>
+</p>
+
+---
+
+**Databases & Storage**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+</p>
+
+---
+
+**Blockchain & Web3**  
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="30" height="30" alt="Ethereum" />
+<img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="30"  alt="Solana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="30" alt="Hardhat"/>
+</p>
+
+---
+
+**Monitoring & Testing**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="30" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" alt="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="30" alt="Cypress"/>
+</p>
 
 ---
 
@@ -61,7 +107,7 @@ Here are a few impactful platforms I've helped build:
 
 > ✅ Feel free to check out my pinned repositories for code samples and architecture breakdowns.
 
----
+--
 
 ### 📈 GitHub Stats
 
