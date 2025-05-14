@@ -10,21 +10,37 @@
 
 I’m a **Lead Software Engineer** and **Team Lead** with a proven record of building production-grade platforms that scale to millions of users. My work spans AI-driven routing engines, video processing pipelines, cloud-native SaaS platforms, and real-time dashboards.
 
-- 🔧 Architect backends in **Node.js**, **NestJS**, and **Python**—exposing **REST** and **GraphQL** APIs
-- 🧬 Tame data across **Postgres**, **MongoDB**, **DynamoDB**, **Elasticsearch**, and **Redis**
-- 💻 Craft sleek UIs with **React**, **Next.js**, **Tailwind**, **MUI**, **Redux**, **Zustand**, and **Shadcn/UI**
-- ☁️ Design cloud deployments on **AWS** (EKS, Lambda, EC2, RDS, S3, SNS/SQS) and **Kubernetes**
-- 🛠 Automate CI/CD with **GitHub Actions**, **Argo CD**, **Jenkins**, and **Terraform/CDK**
-- 📈 Own observability using **CloudWatch**, **Kibana**, **Grafana**, and **Prometheus**
+- 🔧 Architect backends in **Node.js**, **NestJS**, and **Python**—exposing **REST** and **GraphQL** APIs  
+- 🧬 Tame data across **Postgres**, **MongoDB**, **DynamoDB**, **Elasticsearch**, and **Redis**  
+- 💻 Craft sleek UIs with **React**, **Next.js**, **Tailwind**, **MUI**, **Redux**, **Zustand**, and **Shadcn/UI**  
+- ☁️ Design cloud deployments on **AWS** (EKS, Lambda, EC2, RDS, S3, SNS/SQS) and **Kubernetes**  
+- 🛠 Automate CI/CD with **GitHub Actions**, **Argo CD**, **Jenkins**, and **Terraform/CDK**  
+- 📈 Own observability using **CloudWatch**, **Kibana**, **Grafana**, and **Prometheus**  
+- 🔗 Build and audit blockchain apps in **Solidity**, **Ethers.js**, **Hardhat**, **Solana**, and **DeFi protocols**
 
 I thrive in agile environments, lead with empathy, and communicate with clarity. Whether scaling AI workloads or mentoring engineers, I prioritize performance, reliability, and thoughtful design.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" width="40"/>
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" width="40"/>
+</p>
 
 ```bash
-Languages:     JavaScript · TypeScript · Python · SQL · Bash · HTML5/CSS3
+Languages:     JavaScript · TypeScript · Python · Solidity · SQL · Bash · HTML5/CSS3
 Backend:       Node.js · NestJS · Express · Flask · FastAPI
 Frontend:      React · Next.js · React Native · TailwindCSS · Material UI · Shadcn · Redux · Zustand
 Data Stores:   PostgreSQL · MongoDB · DynamoDB · Redis · Elasticsearch · S3 · Aurora
@@ -35,6 +51,7 @@ Media:         FFmpeg · MoviePy · WebGL · GPU offloading · Transcoder · rem
 Testing:       Jest · Cypress · Playwright · Postman · Load Testing (k6, Artillery)
 Monitoring:    Prometheus · Grafana · Kibana · ELK Stack
 CMS & Auth:    Strapi · Auth0 · Firebase · OAuth · JWT
+Blockchain:    Solidity · Hardhat · Ethers.js · Web3.js · Foundry · DeFi · Chainlink · Solana · Anchor
 Other:         Stripe · Headless CMS · CI/CD pipelines · Trunk-based development
 ````
 
@@ -47,26 +64,24 @@ Here are a few impactful platforms I've helped build:
 * **Afiniti XAI Switch** – Enterprise-grade AI call routing service (99.9% uptime, global scale)
 * **Kosmic.ai** – Multi-tenant AI video SaaS (5K+ concurrent FFmpeg jobs, 10K+ daily renders)
 * **AiWorks Commerce Engine** – Real-time event-driven backend (Kafka, microservices, GraphQL)
-* **Fundraising Platform @ Techliance** – CMS-enabled site w/ SEO-first Next.js SSR
 * **Group Travel Videos** – High-performance event-driven video backend using Kafka & MongoDB
+* **DeFi Vault Aggregator** – Built a multi-strategy DeFi protocol using Solidity, Hardhat, and Ethers.js
+* **Fundraising Platform @ Techliance** – CMS-enabled site w/ SEO-first Next.js SSR
 
 > ✅ Feel free to check out my pinned repositories for code samples and architecture breakdowns.
 
 ---
 
-### 👥 Let's Connect
-
-* [LinkedIn]([https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/muhammad-ibrahim-node/))
-* 📧 Email: [ibrahimsajidjs@gmail.com](mailto:ibrahimsajidjs@gmail.com)
-* 🧑‍💻 Portfolio/Website: *Coming Soon*
-
----
+### 📈 GitHub Stats
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimjspy&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-nine-virid-46.vercel.app/api?username=ibrahimjspy&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
+  <img src="https://github-readme-stats-nine-virid-46.vercel.app/api/top-langs/?username=ibrahimjspy&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimjspy&theme=default" />
 </p>
+
 
 ---
 
@@ -79,6 +94,14 @@ Here are a few impactful platforms I've helped build:
 
 ---
 
+### 👥 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-node/)
+* 📧 Email: [ibrahimsajidjs@gmail.com](mailto:ibrahimsajidjs@gmail.com)
+* 🧑‍💻 Portfolio/Website: *Coming Soon*
+
+---
+
 ### ⚡ Fun Fact
 
 > I can deploy a video pipeline that renders thousands of videos an hour while watching them preview live in-browser — all in under 15 seconds ✨
@@ -86,4 +109,6 @@ Here are a few impactful platforms I've helped build:
 ---
 
 <p align="center">Thank you for visiting — let's build something impactful together 🚀</p>
+
+
 
