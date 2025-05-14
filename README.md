@@ -133,7 +133,6 @@ Here are a few impactful platforms I've helped build:
 
 * [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-node/)
 * 📧 Email: [ibrahimsajidjs@gmail.com](mailto:ibrahimsajidjs@gmail.com)
-* 🧑‍💻 Portfolio/Website: *Coming Soon*
 
 ---
 
