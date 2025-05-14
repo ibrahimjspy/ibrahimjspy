@@ -77,9 +77,9 @@ Here are a few impactful platforms I've helped build:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-virid-46.vercel.app/api?username=ibrahimjspy&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
-  <img src="https://github-readme-stats-nine-virid-46.vercel.app/api/top-langs/?username=ibrahimjspy&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimjspy&theme=default" />
+  <img src="https://github-readme-stats-git-master-ibrahimsajidjsgmailcoms-projects.vercel.app/api?username=ibrahimjspy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-master-ibrahmsajidjsgmailcoms-projects.vercel.app/api/top-langs/?username=ibrahimjspy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimjspy&theme=tokyonight" />
 </p>
 
 
