@@ -1,10 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Ibrahim — Full-Stack Engineer | Cloud Architect | Team Lead</h1>
-
-<p align="center">
-  🚀 Turning ideas into scalable products • Architecting cloud-native systems • Leading high-impact teams
-</p>
-
----
+<h1 align="center">👋 Hi, I'm Muhammad Ibrahim</h1>
 
 ### 🧠 About Me
 
@@ -32,11 +26,8 @@ I thrive in agile environments, lead with empathy, and communicate with clarity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" width="40"/>
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" width="40"/>
 </p>
 
 ```bash
@@ -78,8 +69,6 @@ Here are a few impactful platforms I've helped build:
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-ibrahimsajidjsgmailcoms-projects.vercel.app/api?username=ibrahimjspy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-master-ibrahmsajidjsgmailcoms-projects.vercel.app/api/top-langs/?username=ibrahimjspy&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimjspy&theme=tokyonight" />
 </p>
 
 
