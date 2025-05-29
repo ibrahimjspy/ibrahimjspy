@@ -2,69 +2,55 @@
 
 ### 🧠 About Me
 
-I’m a **Lead Software Engineer** and **Team Lead** with a proven record of building production-grade platforms that scale to millions of users. My work spans AI-driven routing engines, video processing pipelines, cloud-native SaaS platforms, and real-time dashboards.
+I'm a full-stack engineer and team lead with 6+ years of hands-on experience turning ideas into products that work at scale. I've helped early-stage startups and enterprise teams build systems that serve millions of users — from AI video platforms and real-time dashboards to DeFi apps and smart contract integrations.
 
-- 🔧 Architect backends in **Node.js**, **NestJS**, and **Python**—exposing **REST** and **GraphQL** APIs  
-- 🧬 Tame data across **Postgres**, **MongoDB**, **DynamoDB**, **Elasticsearch**, and **Redis**  
-- 💻 Craft sleek UIs with **React**, **Next.js**, **Tailwind**, **MUI**, **Redux**, **Zustand**, and **Shadcn/UI**  
-- ☁️ Design cloud deployments on **AWS** (EKS, Lambda, EC2, RDS, S3, SNS/SQS) and **Kubernetes**  
-- 🛠 Automate CI/CD with **GitHub Actions**, **Argo CD**, **Jenkins**, and **Terraform/CDK**  
-- 📈 Own observability using **CloudWatch**, **Kibana**, **Grafana**, and **Prometheus**  
-- 🔗 Build and audit blockchain apps in **Solidity**, **Ethers.js**, **Hardhat**, **Solana**, and **DeFi protocols**
+- 🛠 Backend-first: NestJS, Node.js, and Python for building fast, fault-tolerant APIs (REST + GraphQL)
+- ⚙️ Data handling with Postgres, DynamoDB, MongoDB, Redis, and Elasticsearch
+- 🧑‍🎨 UI development with React, Next.js, Tailwind, MUI, Zustand, and Shadcn/UI
+- ☁️ Cloud-native infrastructure on AWS (EKS, Lambda, S3, RDS, ECS, CDK/Terraform)
+- 🔗 Web3 engineering using Solidity, Hardhat, Ethers.js, and protocol integrations (Chainlink, Uniswap, IPFS)
+- 🧪 Strong on CI/CD, observability, and developer workflows (Jenkins, GitHub Actions, Grafana, Prometheus)
 
-I thrive in agile environments, lead with empathy, and communicate with clarity. Whether scaling AI workloads or mentoring engineers, I prioritize performance, reliability, and thoughtful design.
+I enjoy solving hard engineering problems, building resilient systems, and mentoring devs who care about quality. Most of my work has been backend-heavy, with a strong focus on clean APIs, efficient infrastructure, and shipping fast without burning out.
 
 ---
 
-### 🧰 Tech Stack
+### 🔧 Tech Stack Snapshot
 
-<!-- Languages -->
 **Languages**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30" alt="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash"/>
 </p>
-
----
 
 **Backend & APIs**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
-<img src="https://nestjs.com/img/logo-small.svg" width="30" alt="NestJS" />
+  <img src="https://nestjs.com/img/logo-small.svg" width="30" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" alt="FastAPI"/>
 </p>
 
----
-
 **Frontend**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" title="React / React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" alt="Material UI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
 </p>
 
----
-
-**Cloud & DevOps**  
+**Cloud / DevOps**  
 <p>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30" alt="AWS (alt)" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub Actions"/>
 </p>
 
----
-
-**Databases & Storage**  
+**Databases**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
@@ -72,16 +58,12 @@ I thrive in agile environments, lead with empathy, and communicate with clarity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
 </p>
 
----
-
-**Blockchain & Web3**  
+**Web3 / Blockchain**  
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="30" height="30" alt="Ethereum" />
-<img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="30"  alt="Solana" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="20" alt="Ethereum"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="30" alt="Solana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="30" alt="Hardhat"/>
 </p>
-
----
 
 **Monitoring & Testing**  
 <p>
@@ -91,22 +73,28 @@ I thrive in agile environments, lead with empathy, and communicate with clarity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="30" alt="Cypress"/>
 </p>
 
+
 ---
 
-### 📂 Notable Projects
+### 🚀 Projects That Mattered
 
-Here are a few impactful platforms I've helped build:
+- **Afiniti XAI Switch** – AI-powered enterprise call routing platform (served 900K+ agents, 99.9% uptime)
+- **Kosmic.ai** – AI video SaaS (5K+ concurrent FFmpeg jobs, real-time dashboards, EKS infra)
+- **AiWorks Commerce Engine** – Event-driven backend (NestJS + Kafka) handling 30K+ orders/day
+- **DeFi Vault Aggregator** – Built smart contracts + dApp with Solidity, Ethers.js, and Chainlink oracles
+- **NFT Marketplace** – End-to-end decentralized eCommerce with IPFS, Arweave, and fiat ramps
+- **Fundraising Platform (Techliance)** – SSR-enabled Next.js site w/ CMS & mobile-first conversion optimizations
 
-* **Afiniti XAI Switch** – Enterprise-grade AI call routing service (99.9% uptime, global scale)
-* **Kosmic.ai** – Multi-tenant AI video SaaS (5K+ concurrent FFmpeg jobs, 10K+ daily renders)
-* **AiWorks Commerce Engine** – Real-time event-driven backend (Kafka, microservices, GraphQL)
-* **Group Travel Videos** – High-performance event-driven video backend using Kafka & MongoDB
-* **DeFi Vault Aggregator** – Built a multi-strategy DeFi protocol using Solidity, Hardhat, and Ethers.js
-* **Fundraising Platform @ Techliance** – CMS-enabled site w/ SEO-first Next.js SSR
+---
 
-> ✅ Feel free to check out my pinned repositories for code samples and architecture breakdowns.
+### 📜 Certifications
 
---
+- AWS Certified Solutions Architect – Associate  
+- Harvard CS50 – Intro to Computer Science  
+- Python DS & Algorithms (Zero to Mastery)  
+- Kubernetes & Terraform (in progress)
+
+---
 
 ### 📈 GitHub Stats
 
@@ -114,32 +102,19 @@ Here are a few impactful platforms I've helped build:
   <img src="https://github-readme-stats-git-master-ibrahimsajidjsgmailcoms-projects.vercel.app/api?username=ibrahimjspy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
+---
+
+### 🧭 A Bit More About Me
+
+Outside of code, I enjoy football, anime, chess, and reading historical/philosophical texts — thinkers like Socrates, Aristotle, and Kafka. These things keep me grounded, curious, and always learning.
 
 ---
 
-### 🗂 Featured Certifications
+### 📬 Let's Connect
 
-* AWS Certified Solutions Architect – Associate
-* Harvard CS50 – Computer Science
-* Advanced Python Data Structures & Algorithms
-* Kubernetes Fundamentals & DevOps Automation (in progress)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-node)  
+- 📧 [ibrahimsajidjs@gmail.com](mailto:ibrahimsajidjs@gmail.com)
 
 ---
 
-### 👥 Let's Connect
-
-* [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-node/)
-* 📧 Email: [ibrahimsajidjs@gmail.com](mailto:ibrahimsajidjs@gmail.com)
-
----
-
-### ⚡ Fun Fact
-
-> I can deploy a video pipeline that renders thousands of videos an hour while watching them preview live in-browser — all in under 15 seconds ✨
-
----
-
-<p align="center">Thank you for visiting — let's build something impactful together 🚀</p>
-
-
-
+<p align="center"><i>Building clean systems, solving real problems, and keeping things simple since day one 🚀</i></p>
